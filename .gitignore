@@ -1,0 +1,6 @@
+*.pyc
+*~
+*#
+env/*
+todolist_project/:memory
+todolist_project/public/*
